@@ -1,3 +1,3 @@
-def product3Plus1(x, y):
+def product3Plus1(x, y, z):
     
-    return((x * y) + 1)
+    return((x * y * z) + 1)
